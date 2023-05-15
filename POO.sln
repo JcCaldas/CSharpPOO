@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Heranca", "01Heranca\01Heranca.csproj", "{0A8A7FF4-A99A-47FB-B88E-8C8CBF3C96E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01Heranca", "01Heranca\01Heranca.csproj", "{0A8A7FF4-A99A-47FB-B88E-8C8CBF3C96E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02Heranca_Construtores", "02Heranca_Construtores\02Heranca_Construtores.csproj", "{6B5C6A77-8B45-4C64-B5CC-4D9BEF36DCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Heranca_Object", "03Heranca_Object\03Heranca_Object.csproj", "{528A28A5-0881-4FC6-89F1-68C062950CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Heranca_Modificador_New", "04Heranca_Modificador_New\04Heranca_Modificador_New.csproj", "{28E6CDBC-E425-41E0-A29C-C5C1CDCB5AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Heranca_VirtualOverride", "05Heranca_VirtualOverride\05Heranca_VirtualOverride.csproj", "{1989D239-2D7A-4C86-8354-E214F5902FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Heranca_Sealed", "06Heranca_Sealed\06Heranca_Sealed.csproj", "{3BDBBC42-022A-4B8A-AF2A-A1D2772DE3C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{0A8A7FF4-A99A-47FB-B88E-8C8CBF3C96E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A8A7FF4-A99A-47FB-B88E-8C8CBF3C96E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A8A7FF4-A99A-47FB-B88E-8C8CBF3C96E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B5C6A77-8B45-4C64-B5CC-4D9BEF36DCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5C6A77-8B45-4C64-B5CC-4D9BEF36DCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5C6A77-8B45-4C64-B5CC-4D9BEF36DCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5C6A77-8B45-4C64-B5CC-4D9BEF36DCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528A28A5-0881-4FC6-89F1-68C062950CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528A28A5-0881-4FC6-89F1-68C062950CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528A28A5-0881-4FC6-89F1-68C062950CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528A28A5-0881-4FC6-89F1-68C062950CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E6CDBC-E425-41E0-A29C-C5C1CDCB5AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E6CDBC-E425-41E0-A29C-C5C1CDCB5AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E6CDBC-E425-41E0-A29C-C5C1CDCB5AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E6CDBC-E425-41E0-A29C-C5C1CDCB5AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1989D239-2D7A-4C86-8354-E214F5902FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1989D239-2D7A-4C86-8354-E214F5902FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1989D239-2D7A-4C86-8354-E214F5902FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1989D239-2D7A-4C86-8354-E214F5902FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDBBC42-022A-4B8A-AF2A-A1D2772DE3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDBBC42-022A-4B8A-AF2A-A1D2772DE3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDBBC42-022A-4B8A-AF2A-A1D2772DE3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDBBC42-022A-4B8A-AF2A-A1D2772DE3C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
